@@ -1,3 +1,5 @@
+<!-- Video paused at 1:01:49 (Navbar.js) -->
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
